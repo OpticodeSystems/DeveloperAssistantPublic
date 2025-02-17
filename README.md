@@ -1,1 +1,6 @@
-A repository for changelog information for Developer Assistant
+- Added help file
+- Compatibility updates for all systems
+- Various UI improvements and bug fixes
+- Fixed bug where crash could occur when loading certain projects
+- Added additional error handling to startup processes
+- Changed error logging folder to **C:\users\\[user]\AppData\Roaming\Developer Assistant\Error Logs**
